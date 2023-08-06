@@ -1,4 +1,3 @@
-➕➖✖➗
 # devmentor.pl - Javascript: Events
 
 ## Table of contents
@@ -37,7 +36,7 @@ Additional tasks:
 
 ### Links
 
--   Live Site URL: [Check it out here]()
+-   Live Site URL: [Check it out here](https://mike161pl.github.io/JS-slider/)
 
 ## My process
 
